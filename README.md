@@ -3,8 +3,8 @@
 This project automatically collects annual macroeconomic data from the
 [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392)
 and performs a descriptive analysis of long-run structural change in industry and
-manufacturing across 17 countries from 2000 to 2025. All parameters — countries,
-time horizon, and indicators — are controlled exclusively through a single TOML
+manufacturing across 17 countries from 2000 to 2025. All parameters, countries,
+time horizon, and indicators are controlled exclusively through a single TOML
 configuration file. No code changes are required to alter what is collected.
 
 ---
