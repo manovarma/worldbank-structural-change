@@ -1,0 +1,52 @@
+country,indicator,series_used,note
+Australia,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+Belgium,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+United States,industry_value_added_usd_const,NV.IND.TOTL.CD,current USD (fallback)
+Canada,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+Mexico,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+Brazil,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+Germany,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+France,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+Italy,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+Denmark,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+Finland,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+Netherlands,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+United Kingdom,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+South Africa,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+China,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+Japan,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+Turkey,industry_value_added_usd_const,NV.IND.TOTL.KD,constant USD
+Australia,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+Belgium,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+United States,manufacturing_value_added_usd_const,NV.IND.MANF.CD,current USD (fallback)
+Canada,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+Mexico,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+Brazil,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+Germany,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+France,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+Italy,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+Denmark,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+Finland,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+Netherlands,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+United Kingdom,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+South Africa,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+China,manufacturing_value_added_usd_const,NV.IND.MANF.CD,current USD (fallback)
+Japan,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+Turkey,manufacturing_value_added_usd_const,NV.IND.MANF.KD,constant USD
+Australia,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+Belgium,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+United States,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+Canada,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+Mexico,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+Brazil,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+Germany,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+France,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+Italy,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+Denmark,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+Finland,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+Netherlands,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+United Kingdom,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+South Africa,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+China,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+Japan,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
+Turkey,gdp_usd_real,NY.GDP.MKTP.KD,constant USD
