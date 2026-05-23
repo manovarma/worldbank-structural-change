@@ -78,7 +78,7 @@ This fetches live data from the World Bank API (~30 seconds) and produces:
 - `data/raw_data.csv` full wide format dataset
 - `data/summary.csv` per country summary with shares and CAGRs
 - `data/coverage_notes.csv`  documents any series substitutions
-- `findings.md` — interpretive write-up
+- `findings.md`  interpretive write-up
 
 ---
 
