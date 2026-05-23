@@ -75,9 +75,9 @@ python3 run.py
 
 This fetches live data from the World Bank API (~30 seconds) and produces:
 
-- `data/raw_data.csv` — full wide-format dataset
-- `data/summary.csv` — per-country summary with shares and CAGRs
-- `data/coverage_notes.csv` — documents any series substitutions
+- `data/raw_data.csv` full wide format dataset
+- `data/summary.csv` per country summary with shares and CAGRs
+- `data/coverage_notes.csv`  documents any series substitutions
 - `findings.md` — interpretive write-up
 
 ---
@@ -158,7 +158,7 @@ Full interpretation is in [`findings.md`](findings.md). Summary:
   show the largest declines in industry's share of GDP.
 
 - **Manufacturing declined faster than total industry in most advanced economies**,
-  particularly Canada, Australia, and Belgium. Germany is the key exception —
+  particularly Canada, Australia, and Belgium. Germany is the key exception
   its manufacturing share held essentially flat (18.7% → 19.3%) over 24 years.
 
 - **Emerging economies diverge sharply from advanced ones.** Turkey (GDP CAGR 4.9%)
